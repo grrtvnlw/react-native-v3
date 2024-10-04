@@ -1,5 +1,5 @@
 import { Link, Stack } from "expo-router";
-import { Pressable } from "react-native";S
+import { Pressable } from "react-native";
 import MaterialIcons from "@expo/vector-icons/MaterialIcons";
 import { theme } from "../../theme";
 
